@@ -2,9 +2,13 @@
 
 This project is a demo website created as part of a front-end development course. It is meticulously crafted using HTML, CSS, and JavaScript, featuring a diverse range of styles and effects meticulously designed to offer users a seamless and intuitive interface. Its conceptual foundation is rooted in the concept of an AI-powered food subscription platform, wherein subscribers receive customized, nutritionally balanced meals aligned with their individual tastes and dietary requirements.
 
+## Deployment
+
+The application is deployed on Netlify.
+
 ## Project Preview
 
-The project has been hosted on Netlify. To view the project visit: https://omnifood-pritika.netlify.app/
+To view the project visit: https://omnifood-pritika.netlify.app/
 
 ## Technologies Used
 
